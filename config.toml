@@ -17,7 +17,7 @@ disqusShortname = "ink-demo"
 	subtitle = "just some stuff i am up to."
 
 	# Optional 64x64 avatar image.
-	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+	avatar = "https://cdn.discordapp.com/attachments/1020059452201775205/1112621934157512734/plot-logo.png"
 
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
