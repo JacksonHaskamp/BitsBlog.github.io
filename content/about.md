@@ -4,6 +4,6 @@ date: 2023-05-28T20:49:06-05:00
 type: "page"
 ---
 
-Just wanted to make something so friends and family can see what i am up to without much friction in doing so.
+This is just somewhere to put something.
 
-I am interested right now in computer science, mycology, music theory and audio engineering, woodworking, artificial intelligence, and computational neuroscience.
+I am interested right now in computer science, mycology, computational neuroscience, artificial intelligence, woodworking, music theory and audio engineering, fountain pens and philosophy.
